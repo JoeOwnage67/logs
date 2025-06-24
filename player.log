@@ -1,0 +1,2255 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.35f1 (011206c7a712)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8024 MB
+    Driver:   32.0.15.7652
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.121 seconds
+- Finished resetting the current domain, in  0.001 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.573800 ms
+Command line arguments: -popupwindow
+RimWorld 1.6.4498 rev157
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001AE353D4240.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001AE35BD8140.dll
+[1trickPwnyta's Anomaly Patch] Loaded.
+[1trickPwnyta's Biotech Patch] Loaded.
+[1trickPwnyta's Ideology Patch] Loaded.
+[Animal Filth? Don't Care] Loaded.
+[Bed Rest For Food Poisoning] Loaded.
+[Caravan Detected? Don't Care] Loaded.
+DubsMintMenus v1.3.1086
+Dubs Skylight 1.5.3082
+[Faction Xenotype Randomizer] Loaded.
+Fluffy Breakdowns :: Initialized
+[Hold the Grenades] Loaded.
+<color=cyan>[Dark.JobInBar]</color> JobInBar v1.6.9301.35126 initializing...
+Initializing LightsOut [2025.6.14.0]
+MedPod :: Dubs Bad Hygiene detected!
+<color=#66ffb5>[MeleeAnim]</color> Hello, world!
+Build date: 6/22/2025 12:44 PM
+Loaded assemblies (8):
+0BetterFloatMenu, Version=16.0.0.0, Culture=neutral, PublicKeyToken=null,
+0ColourPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AMRetextureSupport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+Meta.Numerics, Version=3.1.0.0, Culture=neutral, PublicKeyToken=67d25c65a6631347,
+ModRequestAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+ModRequestAPI.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+Unity.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=null,
+zAnimationMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+<color=#66ffb5>[MeleeAnim]</color> Scanning 289 mods for animation data...
+<color=#66ffb5>[MeleeAnim]</color> Found 1 mod folders with animation data, total 69 loadable files.
+Persistent Precepts Mod class loaded
+<color=#00FF7F>[Positive Connections]</color>v1.5.5 dai mas fraagey
+[Prisoner No Interaction Alert] Loaded.
+[Real-Time Auto Save] Loaded.
+[Real-Time Auto Save] Set timer for 600000
+Replimat :: Dubs Bad Hygiene detected!
+[RimHUD v1.16.0] Initialized
+[Safe Temperature] Loaded.
+[Sensible Bed Ownership] Loaded.
+[Smart Nutrient Paste Dispensers] Loaded.
+[Smart Work Mode] Loaded.
+[TendYourself] Done.
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+[UglyTogether]: Initialising Harmony
+[Visible Wealth] Loaded.
+Loaded What's That Mod.
+[Xenotype Randomizer] Loaded.
+[UseThisInstead]: Found 0 replacements
+[SafePatcher]The xPath: "Defs/ThingDef[defName="GD_MSSS"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="GD_TacticalPistol"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="GD_MSSS"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="GD_INGrenadeLauncher"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="GD_SKGrenadeLauncher"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="GD_BSLauncher"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="Gun_SmartRifle"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="Gun_SmartPistol"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="Gun_SMG"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="SmartMG"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="Gun_SmartSniperRifle"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="Gun_NestMMG"]" not found
+[SafePatcher]The xPath: "Defs/ThingDef[defName="Gun_NestMissile"]" not found
+Could not find a type named Replace_Stuff.Designator_ReplaceStuff
+DesignationCategoryDefStructure could not instantiate special designator from class .
+ Exception: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+[Ref 1854FCFA]
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic, System.Boolean wrapExceptions) [0x00003] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00000] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at Verse.DesignationCategoryDef.ResolveDesignators () [0x00023] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+Translation data for language English has 137 errors. Generate translation report for more info.
+NepSmallerTurbines Loaded
+NepSmallerTurbines Setting Value of Tweakable RimWorld.CompPowerPlantWind BladeWidth to 4
+NepCaravanGhouls Loaded
+NepCaravanGhouls Patching Complete
+NepCaravanGhouls: bool: False
+NepCaravanGhouls: float: 1
+<color=cyan>[Dark.JobInBar]</color> Running Harmony patches...
+<color=cyan>[Dark.JobInBar]</color> 5/5 Harmony patches successful.
+[Keep Mortars Ready] Loaded.
+PersistentPrecepts Loaded
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+checking WorkGiver_DoBill.StartOrResumeBillJob for other harmony patches
+could not find original method through ReflectedType or TypeByName(WorkGiver_DoBill), continuing
+checking Pawn.TickRare for other harmony patches
+TKS_PriorityTreatment: found other postfixes for method TickRare: RedMattis.ConvertRecruit
+checking Pawn_JobTracker.TryFindAndStartJob for other harmony patches
+could not find original method through ReflectedType or TypeByName(Pawn_JobTracker), continuing
+TKS_PriorityTreatment: harmony conflicts detected, please report mods if things are acting up
+TKS_PriorityTreatment: Patching finished
+[RelevantStatsInDescription]: Skipping dps-calculation of Mortar as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Foam turret as its projectile does not cause damage to health
+[RelevantStatsInDescription]: Skipping dps-calculation of Molten cannon as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Cannon as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Infantry mortar as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Hexagonal mortar launcher as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Howitzer as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Field cannon as it has no default projectile defined
+[Spaceports] Messing around with reflection and DBH...
+[Spaceports] Okay, showtime!
+[Spaceports] Hospitality not found, patches bypassed.
+[Spaceports] Hospitality + SOS2 not found, integration patches bypassed.
+[Spaceports] Trader Ships not found, patches bypassed.
+RunAwayStupid: Tua is here to help!
+RunAwayStupid: Checking settings!
+<color=#66FF8CFF>[Untitled Goose Mod] </color>6/24/2025 [1.5 Release | Nothing to report.] Beware the geese...
+[XmlPatchHelper] version 1.6.1124
+CharacterEditor v1.6.1 initializing...
+updating labels for english...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.6.1 ...done
+<color=#66ffb5>[MeleeAnim]</color> Potential patch conflicts (9):
+<color=#66ffb5>[MeleeAnim]</color> 
+System.Void Verse.PawnRenderer::RenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [com.otters.rimworld.mod.Tents] Prefix
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+static System.Collections.Generic.List`1<Verse.FloatMenuOption> RimWorld.FloatMenuMakerMap::GetOptions(System.Collections.Generic.List`1<Verse.Pawn> selectedPawns, UnityEngine.Vector3 clickPos, RimWorld.FloatMenuContext& context)
+Prefixes:
+  [sensiblebedownership.1trickPwnyta] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [sensiblebedownership.1trickPwnyta] Postfix
+  [RedMattis.BetterPrerequisites] Postfix
+
+static System.Void Verse.PawnGenerator::GenerateGearFor(Verse.Pawn pawn, Verse.PawnGenerationRequest request)
+Prefixes:
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [PeteTimesSix.SimpleSidearms] GenerateGearFor
+
+static System.Void Verse.PawnRenderUtility::DrawEquipmentAiming(Verse.Thing eq, UnityEngine.Vector3 drawLoc, System.Single aimAngle)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [com.github.automatic1111.gunplay] Prefix
+Transpilers:
+Postfixes:
+  [Vodka.MuzzleFlash] Postfix
+
+Verse.PreRenderResults Verse.PawnRenderer::ParallelGetPreRenderResults(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon, System.Boolean disableCache)
+Prefixes:
+  [RedMattis.BetterPrerequisites] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+virtual System.Boolean RimWorld.Verb_MeleeAttack::TryCastShot()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [PeteTimesSix.SimpleSidearms] TryCastShot
+<color=#66ffb5>[MeleeAnim]</color> Full patch list:
+<color=#66ffb5>[MeleeAnim]</color> 
+System.Void Verse.PawnRenderer::RenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [com.otters.rimworld.mod.Tents] Prefix
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+System.Void RimWorld.Building_ProximityDetector::RunDetection()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+static System.Collections.Generic.List`1<Verse.FloatMenuOption> RimWorld.FloatMenuMakerMap::GetOptions(System.Collections.Generic.List`1<Verse.Pawn> selectedPawns, UnityEngine.Vector3 clickPos, RimWorld.FloatMenuContext& context)
+Prefixes:
+  [sensiblebedownership.1trickPwnyta] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [sensiblebedownership.1trickPwnyta] Postfix
+  [RedMattis.BetterPrerequisites] Postfix
+
+System.Boolean Verse.HediffSet::get_HasHead()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+static System.Boolean RimWorld.InvisibilityUtility::IsPsychologicallyInvisible(Verse.Pawn pawn)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+static System.Void Verse.PawnGenerator::GenerateGearFor(Verse.Pawn pawn, Verse.PawnGenerationRequest request)
+Prefixes:
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [PeteTimesSix.SimpleSidearms] GenerateGearFor
+
+static System.Void Verse.PawnRenderUtility::DrawEquipmentAiming(Verse.Thing eq, UnityEngine.Vector3 drawLoc, System.Single aimAngle)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [com.github.automatic1111.gunplay] Prefix
+Transpilers:
+Postfixes:
+  [Vodka.MuzzleFlash] Postfix
+
+System.Void Verse.PawnRenderer::DrawShadowInternal(UnityEngine.Vector3 drawLoc)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+Verse.PreRenderResults Verse.PawnRenderer::ParallelGetPreRenderResults(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon, System.Boolean disableCache)
+Prefixes:
+  [RedMattis.BetterPrerequisites] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+System.Void Verse.PawnRenderer::ParallelPreRenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderTree::ParallelPreDraw(Verse.PawnDrawParms parms)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+static Verse.Pawn RimWorld.PawnUtility::PawnBlockingPathAt(Verse.IntVec3 c, Verse.Pawn forPawn, System.Boolean actAsIfHadCollideWithPawnsJob, System.Boolean collideOnlyWithStandingPawns, System.Boolean forPathFinder, System.Boolean useId)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void RimWorld.Pawn_ApparelTracker::Notify_ApparelChanged()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+virtual System.Void Verse.Pawn::DrawGUIOverlay()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.Pawn_DrawTracker::Notify_MeleeAttackOn(Verse.Thing Target)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+Verse.BattleLogEntry_MeleeCombat RimWorld.Verb_MeleeAttack::CreateCombatLog(System.Func`2<Verse.ManeuverDef, Verse.RulePackDef> rulePackGetter, System.Boolean alwaysShow)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+virtual System.Boolean RimWorld.Verb_MeleeAttack::TryCastShot()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [PeteTimesSix.SimpleSidearms] TryCastShot
+Unloading 5 Unused Serialized files (Serialized files now loaded: 7)
+<color=#66ffb5>[MeleeAnim]</color> PreCached all retexture info in 37.0ms
+<color=#66ffb5>[MeleeAnim]</color> Loaded tweak data for 45 weapons.
+<color=#66ffb5>[MeleeAnim]</color> redmattis.betterprerequisites 'Big and Small - Framework' has 1 missing weapon tweak data.
+<color=#66ffb5>[MeleeAnim]</color> collapse.dunesofrim.harkonnen 'Dune: Harkonnen Armour & Weapon Pack' has 7 missing weapon tweak data.
+<color=#66ffb5>[MeleeAnim]</color> mosi.sharddagger 'Shard Dagger' has 1 missing weapon tweak data.
+<color=#66ffb5>[MeleeAnim]</color> lynthecookie.multitool '[LYN] Multitool' has 1 missing weapon tweak data.
+<color=#66ffb5>[MeleeAnim]</color> Skipping reporting of missing mod/weapons because user opted out or the feature is disabled by the developer.
+<color=#66ffb5>[MeleeAnim]</color> Patched 3 classes that directly inherit from Verb_MeleeAttack in 68.4 ms to detect hits:
+RimWorld.Verb_MeleeApplyHediff from Assembly-CSharp
+RimWorld.Verb_MeleeAttackDamage from Assembly-CSharp
+Fortified.Verb_MeleeSweep from Fortified
+<color=#66ffb5>[MeleeAnim]</color> Found 0 items of clothing that cover hands, took 0.83 ms:
+Unloading 248 unused Assets to reduce memory usage. Loaded Objects now: 37198.
+Total: 421.692800 ms (FindLiveObjects: 2.083800 ms CreateObjectMapping: 1.632100 ms MarkObjects: 417.154800 ms  DeleteObjects: 0.822100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 7)
+Loading asset bundle MuzzleFlash.shaders-windows
+Loaded shader Unlit/AnimatedAdditiveInstanced
+[Muzzle Flash] Shader loaded from MuzzleFlash: Unlit/AnimatedAdditiveInstanced
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37200.
+Total: 449.025900 ms (FindLiveObjects: 1.982700 ms CreateObjectMapping: 1.482300 ms MarkObjects: 445.490000 ms  DeleteObjects: 0.070900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37200.
+Total: 403.888900 ms (FindLiveObjects: 1.990500 ms CreateObjectMapping: 1.295400 ms MarkObjects: 400.523400 ms  DeleteObjects: 0.079300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37200.
+Total: 403.188900 ms (FindLiveObjects: 2.115900 ms CreateObjectMapping: 0.989100 ms MarkObjects: 400.013200 ms  DeleteObjects: 0.070400 ms)
+
+  --> [What's That Mod] Took 0.19 seconds to scan all patches. <--
+What's That Mod: Wrote to 5466 mod descriptions, 6 patched defs resolved.
+What's That Mod took 214 milliseconds to generate all def descriptions.
+[OgreStack]: Modify Stack Sizes Complete
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+657 default entities for genes created
+creating default parameter list for objects...
+2402 default entities for objects created
+creating default parameter list for turrets...
+72 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+no modifications for objects
+no modifications for lifestages
+...done
+Unloading 3 Unused Serialized files (Serialized files now loaded: 8)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.965700 ms
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 37327.
+Total: 373.505000 ms (FindLiveObjects: 1.727700 ms CreateObjectMapping: 1.183700 ms MarkObjects: 370.525900 ms  DeleteObjects: 0.067600 ms)
+
+Loading game from file New Sherwood with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - anomalypatch.1trickPwnyta
+  - biotechpatch.1trickPwnyta
+  - ideologypatch.1trickPwnyta
+  - Joe.2xCarryingCapacity
+  - adaptive.storage.framework
+  - nep.smallerturbines
+  - Proxyer.anestheticpatch
+  - animalfilthdontcare.1trickPonyta
+  - Oblitus.AnimalsLogic
+  - com.bymarcin.ArchitectIcons
+  - ferny.artaccurategenebank
+  - automatic.autolinks
+  - Linnun.AutoCastSpecialistCommands
+  - automatic.autocleaner
+  - ferny.auxiliariescategory
+  - BattIeBear.BattIePatch.EnhancedBioregeneration
+  - BattIeBear.BattIePatch.GhoulMoodBarFix
+  - Meltup.BeautifulOutdoors
+  - bedrestforfoodpoisoning.1trickPonyta
+  - RedMattis.BetterChildren
+  - nephlite.advexplosions
+  - RedMattis.BetterGeneInheritance
+  - Mlie.BetterMessagePlacement
+  - lts.BVT
+  - kikohi.BetterGroundPenetratingScanner
+  - Daria40K.BigLittleModPatch
+  - RedMattis.BetterPrerequisites
+  - RedMattis.BSFurniture
+  - Spacemoth.BTOD
+  - EL.BiotechMechRT
+  - Owlchemist.BoundaryTraining
+  - ferny.brambleblast
+  - Hol.BSC
+  - Aoba.Tent
+  - caravandetecteddontcare.1trickPwnyta
+  - nep.caravanghouls
+  - Kopp.CaravanItemSelectionEnhanced
+  - Gideon.CastleWalls
+  - void.charactereditor
+  - zylle.ChildboodBackstories
+  - ChildrenTraitsAffectLearning.Mod
+  - blues.breaker
+  - ferny.categoriesspots
+  - s1.cleaningareatemp
+  - CloseLetters.Sentinel
+  - Foxy.ColonistBarBelowDev
+  - PeteTimesSix.CompactHediffs
+  - Mlie.CompensateForLostLimbs
+  - Metalocif.CGS
+  - BDew.CremateAutoStrip
+  - Thumb.BetterCremation
+  - ferny.culturecategory
+  - Cyber.Miniaturization
+  - Dysphorid.DMusic
+  - sumghai.DefensiveMachineGunTurretPack
+  - Garwel.DestroyItem
+  - zal.dcmtr
+  - Owlchemist.DoorClearance
+  - dracoix.doormat.r12a
+  - Dubwise.DubsBadHygiene
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsSkylights
+  - Mlie.DucksNoLimitsIdeology
+  - Collapse.DunesOfRim.Harkonnen
+  - zeracronius.dynamictradeinterface
+  - Gold.EasierKibbleX4
+  - V1024.EffectiveLumbering
+  - zylle.ExtraAlerts
+  - Keshash.ExtraExplosionEffects
+  - Verniy709.FaceDown
+  - factionxenotyperandomizer.1trickPwnyta
+  - kosaro.fahrenheitandcelsius
+  - Atlas.FalloutTraits
+  - JoeDaly.Neutro.Medieval
+  - ferny.EasyCaravanFormation
+  - Aelanna.FistNerf
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.FoodPoisoningStackFix
+  - AOBA.Framework
+  - RedMattis.GeneExtractor
+  - Gerrymon.UVT
+  - rabiosus.ghoulcorpsefilter
+  - GlitchGoblin.GravesAreForColonists
+  - Mlie.GreyerMorals
+  - LTS.PG
+  - automatic.gunplay
+  - BotchJob.HTHair
+  - tidal.hardspacesoundtrack
+  - ivelischt.RimWorld.uncooledHay
+  - llunak.HideRaidStrategy
+  - holdthegrenades.1trickPonyta
+  - HaiLuan.IWBB
+  - zal.imoff
+  - Garwel.IdeologyDevelopmentPlus
+  - Mlie.IncreasedDodgeChance
+  - joe.tests.InfiniteTurrets
+  - Dark.JobInBar
+  - Mlie.JustIgnoreMePassing
+  - Mlie.JustPutItOverThere
+  - tiagocc0.JustStoneTile
+  - tiagocc0.JustWoodFloor
+  - Kharshuf.JusticeForFlagstone
+  - Linnun.KeepConverting
+  - keepmortarsready.1trickPwnyta
+  - Keshash.LayeredWallDestruction
+  - Krafs.LevelUp
+  - DanceNinja.LifterPlzDoMoreJobs
+  - juanlopez2008.LightsOut
+  - tyrannidae.littlecritters
+  - Mlie.LiveWithThePain
+  - lecht.lockapparel
+  - espio.losefaith
+  - Hol.StoneButcher
+  - Hol.StoneStove
+  - winggar.meaningfulparties
+  - AzzyH.MechChargerBooster
+  - Spacemoth.MechTab
+  - lts.MSMD
+  - sumghai.Medpod
+  - Gerrymon.MCO
+  - co.uk.epicguru.meleeanimation
+  - Mo.MHScanner
+  - Superniquito.ModOptionsSort
+  - Hol.Words
+  - ferny.moreorders
+  - kirby.morereligiousorigins
+  - tidal.morevanilla.textures
+  - zal.morevanillaturrets
+  - vingy.moreagingmulitplier
+  - ferny.moveyourmonolith
+  - oels.multireinstall
+  - zal.musicmanager
+  - IssacZhuang.MuzzleFlash
+  - Andromeda.NiceHairs
+  - Unon.NoBurnMetal
+  - Dingo.NoForcedSlowdown
+  - Doug.NoJobAuthors
+  - Mangone.NoAbandonedCamp
+  - overheadMeal.patch
+  - Chaotic.OSTUnlocker
+  - Lime.OgreStack
+  - Spacemoth.OreOverlay
+  - fed1sPlay.PawnTargetFix
+  - Alleykat.PersistentPrecepts
+  - Owlchemist.PerspectivePaths
+  - Mehni.PickUpAndHaul.Unoffical
+  - cem.PositiveConnections
+  - erdelf.PowerIndicators
+  - tk421storm.PriorityTreatmentRessurected
+  - prisonernointeractionalert.1trickPwnyta
+  - Mlie.PrisonersShouldFearTurrets
+  - Mlie.RangeFinder
+  - Garwel.ReadoutsPlus
+  - realtimeautosave.1trickPonyta
+  - Mlie.RealisticHumanSounds
+  - joeownage.twistedpacifist.ReasonableComponents
+  - Garwel.RecruitSlaves
+  - Mlie.RelevantStatsInDescription
+  - ShepirotGamer.NoAnimaRadius
+  - ShepirotGamer.NoGauranlenRadius
+  - DEBUuugggg.ReplaceStuff
+  - ferny.ReplaceLib
+  - sumghai.Replimat
+  - Owlchemist.ResearchPowl
+  - Jaxe.RimHUD
+  - Sierra.RT.GeneralTraits
+  - Sierra.RT.VanillaTraitColors
+  - rimsenal.EVP
+  - rimsenal.core
+  - rimsenal.security
+  - zal.spaceports
+  - ferny.roughtrail
+  - Ael.Tua.RunAwayStupid
+  - safetemperature.1trickPwnyta
+  - opponent019.SanguophageFeedRelationship
+  - Owlchemist.ScatteredFlames
+  - fxz.selectsimilar
+  - zal.sensibleaiming
+  - sensiblebedownership.1trickPwnyta
+  - mosi.ShardDagger
+  - Spacemoth.ShowKnownTechprints
+  - zal.silkroad
+  - Owlchemist.SimpleFX.Splashes
+  - Atlas.SimpleFX.Vapor.Revaporized
+  - RedMattis.SimpleHDBodies
+  - arvkus.simplerecycling
+  - PeteTimesSix.SimpleSidearms
+  - ray1203.SimpleCameraSetting
+  - Mlie.SinglePlantTexturePatch
+  - Sl4vP0weR.SleepMeditation.1.5
+  - sleepy068.morepsycasts
+  - rabiosus.slimrecharger
+  - Owlchemist.SmartFarming
+  - smartnutrientpastedispensers.1trickPonyta
+  - sarg.smartspeed
+  - denev.SmartTurretCovering
+  - smartworkmode.1trickPwnyta
+  - Mlie.SmarterDeconstructionAndMining
+  - LM.SmokeleafTweaks
+  - Albion.SparklingWorlds.Full
+  - balistafreak.StopDropAndRoll
+  - zal.sibtl
+  - msd.tendyourself
+  - zal.titlesforme
+  - Owlchemist.ToggleableReadouts
+  - Owlchemist.ToggleableShields
+  - Mlie.TurretIdlePosition
+  - marvinkosh.ughyougotme
+  - uglytogether.leeh
+  - Hol.UltColNames
+  - Scurvyez.UntitledGooseMod
+  - Mlie.UseThisInstead
+  - SirVan.MechanitorRetexture
+  - sirvan.MWRetextured
+  - SirVan.SteelRetexture
+  - RedMattis.VanillaGenesRebalanced
+  - AuntyDonna.mechdetritusretextured
+  - visiblewealth.1trickPwnyta
+  - wvc.sergkart.biotech.MoreMechanoidsWorkModes
+  - WPM.Jerry
+  - co.uk.epicguru.whatsthatmod
+  - Tixiv.WhoShotMyLegOff
+  - RedMattis.BetterConversion
+  - xenotyperandomizer.1trickPwnyta
+  - smashphil.xmlpatchhelper
+  - zal.bigtrees
+  - zal.library
+  - Veltaris.WasteCollector
+  - Better.Plants
+  - Farmable.Neutroamine.Upscaled
+  - FrozenSnowFox.AlwaysRearmTurrets
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - FrozenSnowFox.BetterAnomalyLoot
+  - FrozenSnowFox.BetterCampLoot
+  - FrozenSnowFox.BetterPawnLendingQuest
+  - FrozenSnowFox.BetterSpikeTraps
+  - FrozenSnowFox.EncounterMapResources
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - FrozenSnowFox.GrowableAmbrosia
+  - FrozenSnowFox.GrowableGrass
+  - FrozenSnowFox.GrowableMushrooms
+  - FrozenSnowFox.MoreQuests
+  - savestoragesettings.kv.rw.fishtmp
+  - kittahkhan.grazeup
+  - LimeTreeSnake.Furnishing
+  - LynTheCookie.Multitool
+  - Mlie.RoyaltyUnlockWorkingEmperor
+  - SR.ModRimworld.FactionalWarContinued
+  - SR.ModRimworld.RaidExtension
+  - syrchalis.processor.framework
+  - XeoNovaDan.VisiblePants
+  - Mlie.sdMedicaddons
+  - Adaptive.Ideology.Storage
+  - Adaptive.PrimitiveStorage
+  - Adaptive.SimpleStorage
+  - ferny.animalscategory
+  - RedMattis.BigSmall.Core
+  - ferny.biotechcategory
+  - ChaoticEnrico.CastleWallsExpanded
+  - KirrenCooper.circuitbreakerretexture
+  - Aoba.Fortress.Industrial
+  - ferny.lightingcategory
+  - Hol.MGSNames
+  - proxyer.optionalicons4ai
+  - ferny.outreachcategory
+  - Spacemoth.PFeedPrisoners
+  - sumghai.ReplimatMeals
+  - sleepy068.morepermits
+  - Andromeda.StackGap
+  - SirVan.MVTRetexture
+  - FrozenSnowFox.ComplexJobs
+  - FrozenSnowFox.IndoorTreeFarms
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.SimplySoil
+  - LimeTreeSnake.Defence
+  - ferny.bedroomcategory
+  - RedMattis.BigSmall
+  - RedMattis.Undead
+  - RedMattis.BigWeapons
+  - RedMattis.Dryads
+  - Aoba.Fortress.Frontier
+  - silencer59.timekills
+  - FrozenSnowFox.AdvancedBionicsExpansion
+Could not resolve reference to object with loadID Thing_Human458144 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent=
+Null key while loading dictionary of Verse.Pawn and JobInBar.LabelData. label=TrackedPawns
+Pawn Chrysostom has relation "Parent" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships).
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key 2005679073
+Could not find think node with key -738814722
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key 40285368
+Could not find think node with key -992007108
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -1009014055
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -738814722
+Could not find think node with key -992007108
+Could not find think node with key -992007108
+Could not find think node with key -992007108
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key 705665079
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key 1351865556
+Could not find think node with key 1351865556
+Could not find think node with key -1116356847
+Could not find think node with key 1351865556
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key -1116356847
+Could not find think node with key 1670062466
+Could not find think node with key 1621594387
+Could not find think node with key 1621594387
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+Could not find think node with key 1670062466
+checking editor settings...
+bodysizes genes are active
+Loading Tua GameComponent: LoadedGame()
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 45448.
+Total: 445.496600 ms (FindLiveObjects: 2.003800 ms CreateObjectMapping: 1.845300 ms MarkObjects: 441.557200 ms  DeleteObjects: 0.090000 ms)
+
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+enable table 
+enable table 
+ArchitectIcons :: Orders=>Orders
+ArchitectIcons :: Zone=>Zone
+ArchitectIcons :: Structure=>Structure
+ArchitectIcons :: Production=>Production
+ArchitectIcons :: Ferny_Lighting=>Lighting
+ArchitectIcons :: ASFstorage=>Storage
+ArchitectIcons :: Replimat_Replimat=>Replimat
+ArchitectIcons :: Furniture=>Furniture
+ArchitectIcons :: Ferny_Bedroom=>Bedroom
+ArchitectIcons :: Ferny_Animals=>Animals
+ArchitectIcons :: Power=>Power
+ArchitectIcons :: Security=>Security
+ArchitectIcons :: Misc=>Misc
+ArchitectIcons :: Ferny_Outreach=>Outreach
+ArchitectIcons :: Floors=>Floors
+ArchitectIcons :: Joy=>Recreation
+ArchitectIcons :: Ship=>Ship
+ArchitectIcons :: Temperature=>Temperature
+ArchitectIcons :: Ideology=>Culture
+ArchitectIcons :: Biotech=>Biotech
+ArchitectIcons :: Anomaly=>Anomaly
+ArchitectIcons :: BS_Furniture=>B&S Furniture
+ArchitectIcons :: Hygiene=>Hygiene
+ArchitectIcons :: skylights=>Skylights
+ArchitectIcons :: Ferny_Auxiliaries=>Auxiliaries
+ArchitectIcons :: Castle=>Castle
+enable table 
+enable table 
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+reinnited
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+enable table 
+enable table 
+enable table 
+enable table 
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+Exception ticking MechGestator66508 (at (110, 0, 164)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref C17F85BC]
+  at RimWorld.Bill_ResurrectMech.CreateProducts () [0x0000b] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Building_MechGestator.Notify_FormingCompleted () [0x00000] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+    - POSTFIX LightsOut: Void LightsOut.Common.TablesHelper:PatchTableOff(ThingWithComps __instance)
+    - POSTFIX LightsOut: Void LightsOut.Common.TablesHelper:PatchTableOff(ThingWithComps __instance)
+  at RimWorld.Bill_Mech.BillTick () [0x00066] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Building_MechGestator.Tick () [0x00027] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at Verse.Thing.DoTick () [0x00031] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at Verse.TickList.Tick () [0x0013f] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4154610) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F]
+  at Verse.GenRecipe.PostProcessProduct (Verse.Thing product, Verse.RecipeDef recipeDef, Verse.Pawn worker, RimWorld.Precept_ThingStyle precept, Verse.ThingStyleDef style, System.Nullable`1[T] overrideGraphicIndex) [0x00098] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at Verse.GenRecipe+<FinalizeGestatedPawns>d__1.MoveNext () [0x00028] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at System.Collections.Generic.List`1[T].AddEnumerable (System.Collections.Generic.IEnumerable`1[T] enumerable) [0x00059] in <51fded79cd284d4d911c5949aff4cb21>:0 
+<0x1ae332b7150 + 0x00242> <unknown method>
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00018] in <1f993cbf88314b1baa1e10ca917bdc64>:0 
+  at Verse.AI.Toils_Recipe+<>c__DisplayClass3_0.<FinishRecipeAndStartStoringProduct>b__1 () [0x00199] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+    - TRANSPILER Andromeda.StackGap: IEnumerable`1 StorageUpperBound.ToilsRecipePatch:Transpiler(IEnumerable`1 instructions)
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x001b0] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4159718) A = Thing_MechGestator66508 Giver = ThinkNode_QueuedJob [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4163339) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4164036) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4165171) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4166328) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4167460) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4168597) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4169265) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4170407) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4171530) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4172651) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4174224) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4174875) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4179979) A = Thing_MechGestator66508 Giver = ThinkNode_QueuedJob [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4180890) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4182004) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4182616) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4184182) A = Thing_MechGestator66508 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+enable table 
+enable table 
+Exception filling window for ResearchPowl.MainTabWindow_ResearchTree: System.ArgumentException: An item with the same key has already been added. Key: 397
+[Ref 26089B17]
+ [0x00006] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000dd] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at ResearchPowl.Def_Extensions.IconTexture (Verse.Def def) [0x00079] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at ResearchPowl.ResearchNode.<Unlocks>g__GetUnlockDefs|12_0 (Verse.ResearchProjectDef research) [0x00110] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at ResearchPowl.ResearchNode.Unlocks () [0x0000e] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at ResearchPowl.ResearchNode.Matches (System.String query) [0x00065] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at ResearchPowl.MainTabWindow_ResearchTree.OnSearchFieldChanged () [0x00097] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at ResearchPowl.MainTabWindow_ResearchTree.DrawTopBar (UnityEngine.Rect canvas) [0x00132] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at ResearchPowl.MainTabWindow_ResearchTree.DoWindowContents (UnityEngine.Rect canvas) [0x00058] in <e218313df5f54caea1e989b0db8a235a>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001a6] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+Invalid GUIClip stack popping
+Invalid GUIClip stack popping
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 382E1732]
+  at MeaningfulParties.PartyCauses.PartyCauseTracker.WorldComponentTick () [0x0004b] in <509681d9a376498eb97383cd1335a5f9>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+WorkType FSFDeliver can be done by mechs, but no mechs are capable
+WorkType Art can be done by mechs, but no mechs are capable
+WorkType Hunting can be done by mechs, but no mechs are capable
+WorkType Handling can be done by mechs, but no mechs are capable
+WorkType BasicWorker can be done by mechs, but no mechs are capable
+WorkType Childcare can be done by mechs, but no mechs are capable
+WorkType PatientBedRest can be done by mechs, but no mechs are capable
+WorkType Patient can be done by mechs, but no mechs are capable
+AM.Events.AudioEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new AudioEvent.
+AM.Events.CamShakeEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new CamShakeEvent.
+AM.Events.ClashAudioEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new ClashAudioEvent.
+AM.Events.DamageEffectEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DamageEffectEvent.
+AM.Events.DuelEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DuelEvent.
+AM.Events.GoreSplashEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new GoreSplashEvent.
+AM.Events.KillPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new KillPawnEvent.
+AM.Events.MoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new MoteEvent.
+AM.Events.PuntPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new PuntPawnEvent.
+AM.Events.TextMoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new TextMoteEvent.
+AM.Events.MoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new MoteEvent.
+enable table 
+enable table 
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+Unloading 2 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 478 unused Assets to reduce memory usage. Loaded Objects now: 43317.
+Total: 498.203000 ms (FindLiveObjects: 2.641100 ms CreateObjectMapping: 2.883800 ms MarkObjects: 491.188000 ms  DeleteObjects: 1.490100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 8)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.572700 ms
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 42468.
+Total: 450.844100 ms (FindLiveObjects: 1.901200 ms CreateObjectMapping: 1.739700 ms MarkObjects: 447.072700 ms  DeleteObjects: 0.130400 ms)
+
+Loading game from file Autosave-5 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - anomalypatch.1trickPwnyta
+  - biotechpatch.1trickPwnyta
+  - ideologypatch.1trickPwnyta
+  - Joe.2xCarryingCapacity
+  - adaptive.storage.framework
+  - nep.smallerturbines
+  - Proxyer.anestheticpatch
+  - animalfilthdontcare.1trickPonyta
+  - Oblitus.AnimalsLogic
+  - com.bymarcin.ArchitectIcons
+  - ferny.artaccurategenebank
+  - automatic.autolinks
+  - Linnun.AutoCastSpecialistCommands
+  - automatic.autocleaner
+  - ferny.auxiliariescategory
+  - BattIeBear.BattIePatch.EnhancedBioregeneration
+  - BattIeBear.BattIePatch.GhoulMoodBarFix
+  - Meltup.BeautifulOutdoors
+  - bedrestforfoodpoisoning.1trickPonyta
+  - RedMattis.BetterChildren
+  - nephlite.advexplosions
+  - RedMattis.BetterGeneInheritance
+  - Mlie.BetterMessagePlacement
+  - lts.BVT
+  - kikohi.BetterGroundPenetratingScanner
+  - Daria40K.BigLittleModPatch
+  - RedMattis.BetterPrerequisites
+  - RedMattis.BSFurniture
+  - Spacemoth.BTOD
+  - EL.BiotechMechRT
+  - Owlchemist.BoundaryTraining
+  - ferny.brambleblast
+  - Hol.BSC
+  - Aoba.Tent
+  - caravandetecteddontcare.1trickPwnyta
+  - nep.caravanghouls
+  - Kopp.CaravanItemSelectionEnhanced
+  - Gideon.CastleWalls
+  - void.charactereditor
+  - zylle.ChildboodBackstories
+  - ChildrenTraitsAffectLearning.Mod
+  - blues.breaker
+  - ferny.categoriesspots
+  - s1.cleaningareatemp
+  - CloseLetters.Sentinel
+  - Foxy.ColonistBarBelowDev
+  - PeteTimesSix.CompactHediffs
+  - Mlie.CompensateForLostLimbs
+  - Metalocif.CGS
+  - BDew.CremateAutoStrip
+  - Thumb.BetterCremation
+  - ferny.culturecategory
+  - Cyber.Miniaturization
+  - Dysphorid.DMusic
+  - sumghai.DefensiveMachineGunTurretPack
+  - Garwel.DestroyItem
+  - zal.dcmtr
+  - Owlchemist.DoorClearance
+  - dracoix.doormat.r12a
+  - Dubwise.DubsBadHygiene
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsSkylights
+  - Mlie.DucksNoLimitsIdeology
+  - Collapse.DunesOfRim.Harkonnen
+  - zeracronius.dynamictradeinterface
+  - Gold.EasierKibbleX4
+  - V1024.EffectiveLumbering
+  - zylle.ExtraAlerts
+  - Keshash.ExtraExplosionEffects
+  - Verniy709.FaceDown
+  - factionxenotyperandomizer.1trickPwnyta
+  - kosaro.fahrenheitandcelsius
+  - Atlas.FalloutTraits
+  - JoeDaly.Neutro.Medieval
+  - ferny.EasyCaravanFormation
+  - Aelanna.FistNerf
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.FoodPoisoningStackFix
+  - AOBA.Framework
+  - RedMattis.GeneExtractor
+  - Gerrymon.UVT
+  - rabiosus.ghoulcorpsefilter
+  - GlitchGoblin.GravesAreForColonists
+  - Mlie.GreyerMorals
+  - LTS.PG
+  - automatic.gunplay
+  - BotchJob.HTHair
+  - tidal.hardspacesoundtrack
+  - ivelischt.RimWorld.uncooledHay
+  - llunak.HideRaidStrategy
+  - holdthegrenades.1trickPonyta
+  - HaiLuan.IWBB
+  - zal.imoff
+  - Garwel.IdeologyDevelopmentPlus
+  - Mlie.IncreasedDodgeChance
+  - joe.tests.InfiniteTurrets
+  - Dark.JobInBar
+  - Mlie.JustIgnoreMePassing
+  - Mlie.JustPutItOverThere
+  - tiagocc0.JustStoneTile
+  - tiagocc0.JustWoodFloor
+  - Kharshuf.JusticeForFlagstone
+  - Linnun.KeepConverting
+  - keepmortarsready.1trickPwnyta
+  - Keshash.LayeredWallDestruction
+  - Krafs.LevelUp
+  - DanceNinja.LifterPlzDoMoreJobs
+  - juanlopez2008.LightsOut
+  - tyrannidae.littlecritters
+  - Mlie.LiveWithThePain
+  - lecht.lockapparel
+  - espio.losefaith
+  - Hol.StoneButcher
+  - Hol.StoneStove
+  - winggar.meaningfulparties
+  - AzzyH.MechChargerBooster
+  - Spacemoth.MechTab
+  - lts.MSMD
+  - sumghai.Medpod
+  - Gerrymon.MCO
+  - co.uk.epicguru.meleeanimation
+  - Mo.MHScanner
+  - Superniquito.ModOptionsSort
+  - Hol.Words
+  - ferny.moreorders
+  - kirby.morereligiousorigins
+  - tidal.morevanilla.textures
+  - zal.morevanillaturrets
+  - vingy.moreagingmulitplier
+  - ferny.moveyourmonolith
+  - oels.multireinstall
+  - zal.musicmanager
+  - IssacZhuang.MuzzleFlash
+  - Andromeda.NiceHairs
+  - Unon.NoBurnMetal
+  - Dingo.NoForcedSlowdown
+  - Doug.NoJobAuthors
+  - Mangone.NoAbandonedCamp
+  - overheadMeal.patch
+  - Chaotic.OSTUnlocker
+  - Lime.OgreStack
+  - Spacemoth.OreOverlay
+  - fed1sPlay.PawnTargetFix
+  - Alleykat.PersistentPrecepts
+  - Owlchemist.PerspectivePaths
+  - Mehni.PickUpAndHaul.Unoffical
+  - cem.PositiveConnections
+  - erdelf.PowerIndicators
+  - tk421storm.PriorityTreatmentRessurected
+  - prisonernointeractionalert.1trickPwnyta
+  - Mlie.PrisonersShouldFearTurrets
+  - Mlie.RangeFinder
+  - Garwel.ReadoutsPlus
+  - realtimeautosave.1trickPonyta
+  - Mlie.RealisticHumanSounds
+  - joeownage.twistedpacifist.ReasonableComponents
+  - Garwel.RecruitSlaves
+  - Mlie.RelevantStatsInDescription
+  - ShepirotGamer.NoAnimaRadius
+  - ShepirotGamer.NoGauranlenRadius
+  - DEBUuugggg.ReplaceStuff
+  - ferny.ReplaceLib
+  - sumghai.Replimat
+  - Owlchemist.ResearchPowl
+  - Jaxe.RimHUD
+  - Sierra.RT.GeneralTraits
+  - Sierra.RT.VanillaTraitColors
+  - rimsenal.EVP
+  - rimsenal.core
+  - rimsenal.security
+  - zal.spaceports
+  - ferny.roughtrail
+  - Ael.Tua.RunAwayStupid
+  - safetemperature.1trickPwnyta
+  - opponent019.SanguophageFeedRelationship
+  - Owlchemist.ScatteredFlames
+  - fxz.selectsimilar
+  - zal.sensibleaiming
+  - sensiblebedownership.1trickPwnyta
+  - mosi.ShardDagger
+  - Spacemoth.ShowKnownTechprints
+  - zal.silkroad
+  - Owlchemist.SimpleFX.Splashes
+  - Atlas.SimpleFX.Vapor.Revaporized
+  - RedMattis.SimpleHDBodies
+  - arvkus.simplerecycling
+  - PeteTimesSix.SimpleSidearms
+  - ray1203.SimpleCameraSetting
+  - Mlie.SinglePlantTexturePatch
+  - Sl4vP0weR.SleepMeditation.1.5
+  - sleepy068.morepsycasts
+  - rabiosus.slimrecharger
+  - Owlchemist.SmartFarming
+  - smartnutrientpastedispensers.1trickPonyta
+  - sarg.smartspeed
+  - denev.SmartTurretCovering
+  - smartworkmode.1trickPwnyta
+  - Mlie.SmarterDeconstructionAndMining
+  - LM.SmokeleafTweaks
+  - Albion.SparklingWorlds.Full
+  - balistafreak.StopDropAndRoll
+  - zal.sibtl
+  - msd.tendyourself
+  - zal.titlesforme
+  - Owlchemist.ToggleableReadouts
+  - Owlchemist.ToggleableShields
+  - Mlie.TurretIdlePosition
+  - marvinkosh.ughyougotme
+  - uglytogether.leeh
+  - Hol.UltColNames
+  - Scurvyez.UntitledGooseMod
+  - Mlie.UseThisInstead
+  - SirVan.MechanitorRetexture
+  - sirvan.MWRetextured
+  - SirVan.SteelRetexture
+  - RedMattis.VanillaGenesRebalanced
+  - AuntyDonna.mechdetritusretextured
+  - visiblewealth.1trickPwnyta
+  - wvc.sergkart.biotech.MoreMechanoidsWorkModes
+  - WPM.Jerry
+  - co.uk.epicguru.whatsthatmod
+  - Tixiv.WhoShotMyLegOff
+  - RedMattis.BetterConversion
+  - xenotyperandomizer.1trickPwnyta
+  - smashphil.xmlpatchhelper
+  - zal.bigtrees
+  - zal.library
+  - Veltaris.WasteCollector
+  - Better.Plants
+  - Farmable.Neutroamine.Upscaled
+  - FrozenSnowFox.AlwaysRearmTurrets
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - FrozenSnowFox.BetterAnomalyLoot
+  - FrozenSnowFox.BetterCampLoot
+  - FrozenSnowFox.BetterPawnLendingQuest
+  - FrozenSnowFox.BetterSpikeTraps
+  - FrozenSnowFox.EncounterMapResources
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - FrozenSnowFox.GrowableAmbrosia
+  - FrozenSnowFox.GrowableGrass
+  - FrozenSnowFox.GrowableMushrooms
+  - FrozenSnowFox.MoreQuests
+  - savestoragesettings.kv.rw.fishtmp
+  - kittahkhan.grazeup
+  - LimeTreeSnake.Furnishing
+  - LynTheCookie.Multitool
+  - Mlie.RoyaltyUnlockWorkingEmperor
+  - SR.ModRimworld.FactionalWarContinued
+  - SR.ModRimworld.RaidExtension
+  - syrchalis.processor.framework
+  - XeoNovaDan.VisiblePants
+  - Mlie.sdMedicaddons
+  - Adaptive.Ideology.Storage
+  - Adaptive.PrimitiveStorage
+  - Adaptive.SimpleStorage
+  - ferny.animalscategory
+  - RedMattis.BigSmall.Core
+  - ferny.biotechcategory
+  - ChaoticEnrico.CastleWallsExpanded
+  - KirrenCooper.circuitbreakerretexture
+  - Aoba.Fortress.Industrial
+  - ferny.lightingcategory
+  - Hol.MGSNames
+  - proxyer.optionalicons4ai
+  - ferny.outreachcategory
+  - Spacemoth.PFeedPrisoners
+  - sumghai.ReplimatMeals
+  - sleepy068.morepermits
+  - Andromeda.StackGap
+  - SirVan.MVTRetexture
+  - FrozenSnowFox.ComplexJobs
+  - FrozenSnowFox.IndoorTreeFarms
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.SimplySoil
+  - LimeTreeSnake.Defence
+  - ferny.bedroomcategory
+  - RedMattis.BigSmall
+  - RedMattis.Undead
+  - RedMattis.BigWeapons
+  - RedMattis.Dryads
+  - Aoba.Fortress.Frontier
+  - silencer59.timekills
+  - FrozenSnowFox.AdvancedBionicsExpansion
+Null key while loading dictionary of Verse.Pawn and JobInBar.LabelData. label=TrackedPawns
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+checking editor settings...
+bodysizes genes are active
+Loading Tua GameComponent: LoadedGame()
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 50137.
+Total: 492.981000 ms (FindLiveObjects: 2.172600 ms CreateObjectMapping: 2.164900 ms MarkObjects: 488.564800 ms  DeleteObjects: 0.078400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 454 unused Assets to reduce memory usage. Loaded Objects now: 42860.
+Total: 476.406900 ms (FindLiveObjects: 2.118600 ms CreateObjectMapping: 1.381600 ms MarkObjects: 472.247800 ms  DeleteObjects: 0.658800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 8)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.603400 ms
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 42523.
+Total: 450.061900 ms (FindLiveObjects: 1.917800 ms CreateObjectMapping: 1.370300 ms MarkObjects: 446.671700 ms  DeleteObjects: 0.101900 ms)
+
+Loading game from file Autosave-5 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - anomalypatch.1trickPwnyta
+  - biotechpatch.1trickPwnyta
+  - ideologypatch.1trickPwnyta
+  - Joe.2xCarryingCapacity
+  - adaptive.storage.framework
+  - nep.smallerturbines
+  - Proxyer.anestheticpatch
+  - animalfilthdontcare.1trickPonyta
+  - Oblitus.AnimalsLogic
+  - com.bymarcin.ArchitectIcons
+  - ferny.artaccurategenebank
+  - automatic.autolinks
+  - Linnun.AutoCastSpecialistCommands
+  - automatic.autocleaner
+  - ferny.auxiliariescategory
+  - BattIeBear.BattIePatch.EnhancedBioregeneration
+  - BattIeBear.BattIePatch.GhoulMoodBarFix
+  - Meltup.BeautifulOutdoors
+  - bedrestforfoodpoisoning.1trickPonyta
+  - RedMattis.BetterChildren
+  - nephlite.advexplosions
+  - RedMattis.BetterGeneInheritance
+  - Mlie.BetterMessagePlacement
+  - lts.BVT
+  - kikohi.BetterGroundPenetratingScanner
+  - Daria40K.BigLittleModPatch
+  - RedMattis.BetterPrerequisites
+  - RedMattis.BSFurniture
+  - Spacemoth.BTOD
+  - EL.BiotechMechRT
+  - Owlchemist.BoundaryTraining
+  - ferny.brambleblast
+  - Hol.BSC
+  - Aoba.Tent
+  - caravandetecteddontcare.1trickPwnyta
+  - nep.caravanghouls
+  - Kopp.CaravanItemSelectionEnhanced
+  - Gideon.CastleWalls
+  - void.charactereditor
+  - zylle.ChildboodBackstories
+  - ChildrenTraitsAffectLearning.Mod
+  - blues.breaker
+  - ferny.categoriesspots
+  - s1.cleaningareatemp
+  - CloseLetters.Sentinel
+  - Foxy.ColonistBarBelowDev
+  - PeteTimesSix.CompactHediffs
+  - Mlie.CompensateForLostLimbs
+  - Metalocif.CGS
+  - BDew.CremateAutoStrip
+  - Thumb.BetterCremation
+  - ferny.culturecategory
+  - Cyber.Miniaturization
+  - Dysphorid.DMusic
+  - sumghai.DefensiveMachineGunTurretPack
+  - Garwel.DestroyItem
+  - zal.dcmtr
+  - Owlchemist.DoorClearance
+  - dracoix.doormat.r12a
+  - Dubwise.DubsBadHygiene
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsSkylights
+  - Mlie.DucksNoLimitsIdeology
+  - Collapse.DunesOfRim.Harkonnen
+  - zeracronius.dynamictradeinterface
+  - Gold.EasierKibbleX4
+  - V1024.EffectiveLumbering
+  - zylle.ExtraAlerts
+  - Keshash.ExtraExplosionEffects
+  - Verniy709.FaceDown
+  - factionxenotyperandomizer.1trickPwnyta
+  - kosaro.fahrenheitandcelsius
+  - Atlas.FalloutTraits
+  - JoeDaly.Neutro.Medieval
+  - ferny.EasyCaravanFormation
+  - Aelanna.FistNerf
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.FoodPoisoningStackFix
+  - AOBA.Framework
+  - RedMattis.GeneExtractor
+  - Gerrymon.UVT
+  - rabiosus.ghoulcorpsefilter
+  - GlitchGoblin.GravesAreForColonists
+  - Mlie.GreyerMorals
+  - LTS.PG
+  - automatic.gunplay
+  - BotchJob.HTHair
+  - tidal.hardspacesoundtrack
+  - ivelischt.RimWorld.uncooledHay
+  - llunak.HideRaidStrategy
+  - holdthegrenades.1trickPonyta
+  - HaiLuan.IWBB
+  - zal.imoff
+  - Garwel.IdeologyDevelopmentPlus
+  - Mlie.IncreasedDodgeChance
+  - joe.tests.InfiniteTurrets
+  - Dark.JobInBar
+  - Mlie.JustIgnoreMePassing
+  - Mlie.JustPutItOverThere
+  - tiagocc0.JustStoneTile
+  - tiagocc0.JustWoodFloor
+  - Kharshuf.JusticeForFlagstone
+  - Linnun.KeepConverting
+  - keepmortarsready.1trickPwnyta
+  - Keshash.LayeredWallDestruction
+  - Krafs.LevelUp
+  - DanceNinja.LifterPlzDoMoreJobs
+  - juanlopez2008.LightsOut
+  - tyrannidae.littlecritters
+  - Mlie.LiveWithThePain
+  - lecht.lockapparel
+  - espio.losefaith
+  - Hol.StoneButcher
+  - Hol.StoneStove
+  - winggar.meaningfulparties
+  - AzzyH.MechChargerBooster
+  - Spacemoth.MechTab
+  - lts.MSMD
+  - sumghai.Medpod
+  - Gerrymon.MCO
+  - co.uk.epicguru.meleeanimation
+  - Mo.MHScanner
+  - Superniquito.ModOptionsSort
+  - Hol.Words
+  - ferny.moreorders
+  - kirby.morereligiousorigins
+  - tidal.morevanilla.textures
+  - zal.morevanillaturrets
+  - vingy.moreagingmulitplier
+  - ferny.moveyourmonolith
+  - oels.multireinstall
+  - zal.musicmanager
+  - IssacZhuang.MuzzleFlash
+  - Andromeda.NiceHairs
+  - Unon.NoBurnMetal
+  - Dingo.NoForcedSlowdown
+  - Doug.NoJobAuthors
+  - Mangone.NoAbandonedCamp
+  - overheadMeal.patch
+  - Chaotic.OSTUnlocker
+  - Lime.OgreStack
+  - Spacemoth.OreOverlay
+  - fed1sPlay.PawnTargetFix
+  - Alleykat.PersistentPrecepts
+  - Owlchemist.PerspectivePaths
+  - Mehni.PickUpAndHaul.Unoffical
+  - cem.PositiveConnections
+  - erdelf.PowerIndicators
+  - tk421storm.PriorityTreatmentRessurected
+  - prisonernointeractionalert.1trickPwnyta
+  - Mlie.PrisonersShouldFearTurrets
+  - Mlie.RangeFinder
+  - Garwel.ReadoutsPlus
+  - realtimeautosave.1trickPonyta
+  - Mlie.RealisticHumanSounds
+  - joeownage.twistedpacifist.ReasonableComponents
+  - Garwel.RecruitSlaves
+  - Mlie.RelevantStatsInDescription
+  - ShepirotGamer.NoAnimaRadius
+  - ShepirotGamer.NoGauranlenRadius
+  - DEBUuugggg.ReplaceStuff
+  - ferny.ReplaceLib
+  - sumghai.Replimat
+  - Owlchemist.ResearchPowl
+  - Jaxe.RimHUD
+  - Sierra.RT.GeneralTraits
+  - Sierra.RT.VanillaTraitColors
+  - rimsenal.EVP
+  - rimsenal.core
+  - rimsenal.security
+  - zal.spaceports
+  - ferny.roughtrail
+  - Ael.Tua.RunAwayStupid
+  - safetemperature.1trickPwnyta
+  - opponent019.SanguophageFeedRelationship
+  - Owlchemist.ScatteredFlames
+  - fxz.selectsimilar
+  - zal.sensibleaiming
+  - sensiblebedownership.1trickPwnyta
+  - mosi.ShardDagger
+  - Spacemoth.ShowKnownTechprints
+  - zal.silkroad
+  - Owlchemist.SimpleFX.Splashes
+  - Atlas.SimpleFX.Vapor.Revaporized
+  - RedMattis.SimpleHDBodies
+  - arvkus.simplerecycling
+  - PeteTimesSix.SimpleSidearms
+  - ray1203.SimpleCameraSetting
+  - Mlie.SinglePlantTexturePatch
+  - Sl4vP0weR.SleepMeditation.1.5
+  - sleepy068.morepsycasts
+  - rabiosus.slimrecharger
+  - Owlchemist.SmartFarming
+  - smartnutrientpastedispensers.1trickPonyta
+  - sarg.smartspeed
+  - denev.SmartTurretCovering
+  - smartworkmode.1trickPwnyta
+  - Mlie.SmarterDeconstructionAndMining
+  - LM.SmokeleafTweaks
+  - Albion.SparklingWorlds.Full
+  - balistafreak.StopDropAndRoll
+  - zal.sibtl
+  - msd.tendyourself
+  - zal.titlesforme
+  - Owlchemist.ToggleableReadouts
+  - Owlchemist.ToggleableShields
+  - Mlie.TurretIdlePosition
+  - marvinkosh.ughyougotme
+  - uglytogether.leeh
+  - Hol.UltColNames
+  - Scurvyez.UntitledGooseMod
+  - Mlie.UseThisInstead
+  - SirVan.MechanitorRetexture
+  - sirvan.MWRetextured
+  - SirVan.SteelRetexture
+  - RedMattis.VanillaGenesRebalanced
+  - AuntyDonna.mechdetritusretextured
+  - visiblewealth.1trickPwnyta
+  - wvc.sergkart.biotech.MoreMechanoidsWorkModes
+  - WPM.Jerry
+  - co.uk.epicguru.whatsthatmod
+  - Tixiv.WhoShotMyLegOff
+  - RedMattis.BetterConversion
+  - xenotyperandomizer.1trickPwnyta
+  - smashphil.xmlpatchhelper
+  - zal.bigtrees
+  - zal.library
+  - Veltaris.WasteCollector
+  - Better.Plants
+  - Farmable.Neutroamine.Upscaled
+  - FrozenSnowFox.AlwaysRearmTurrets
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - FrozenSnowFox.BetterAnomalyLoot
+  - FrozenSnowFox.BetterCampLoot
+  - FrozenSnowFox.BetterPawnLendingQuest
+  - FrozenSnowFox.BetterSpikeTraps
+  - FrozenSnowFox.EncounterMapResources
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - FrozenSnowFox.GrowableAmbrosia
+  - FrozenSnowFox.GrowableGrass
+  - FrozenSnowFox.GrowableMushrooms
+  - FrozenSnowFox.MoreQuests
+  - savestoragesettings.kv.rw.fishtmp
+  - kittahkhan.grazeup
+  - LimeTreeSnake.Furnishing
+  - LynTheCookie.Multitool
+  - Mlie.RoyaltyUnlockWorkingEmperor
+  - SR.ModRimworld.FactionalWarContinued
+  - SR.ModRimworld.RaidExtension
+  - syrchalis.processor.framework
+  - XeoNovaDan.VisiblePants
+  - Mlie.sdMedicaddons
+  - Adaptive.Ideology.Storage
+  - Adaptive.PrimitiveStorage
+  - Adaptive.SimpleStorage
+  - ferny.animalscategory
+  - RedMattis.BigSmall.Core
+  - ferny.biotechcategory
+  - ChaoticEnrico.CastleWallsExpanded
+  - KirrenCooper.circuitbreakerretexture
+  - Aoba.Fortress.Industrial
+  - ferny.lightingcategory
+  - Hol.MGSNames
+  - proxyer.optionalicons4ai
+  - ferny.outreachcategory
+  - Spacemoth.PFeedPrisoners
+  - sumghai.ReplimatMeals
+  - sleepy068.morepermits
+  - Andromeda.StackGap
+  - SirVan.MVTRetexture
+  - FrozenSnowFox.ComplexJobs
+  - FrozenSnowFox.IndoorTreeFarms
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.SimplySoil
+  - LimeTreeSnake.Defence
+  - ferny.bedroomcategory
+  - RedMattis.BigSmall
+  - RedMattis.Undead
+  - RedMattis.BigWeapons
+  - RedMattis.Dryads
+  - Aoba.Fortress.Frontier
+  - silencer59.timekills
+  - FrozenSnowFox.AdvancedBionicsExpansion
+Null key while loading dictionary of Verse.Pawn and JobInBar.LabelData. label=TrackedPawns
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+checking editor settings...
+bodysizes genes are active
+Loading Tua GameComponent: LoadedGame()
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 50187.
+Total: 500.558400 ms (FindLiveObjects: 2.227700 ms CreateObjectMapping: 2.415300 ms MarkObjects: 495.830500 ms  DeleteObjects: 0.084700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 459 unused Assets to reduce memory usage. Loaded Objects now: 42854.
+Total: 488.677000 ms (FindLiveObjects: 2.400400 ms CreateObjectMapping: 2.266100 ms MarkObjects: 483.342100 ms  DeleteObjects: 0.668100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 8)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.617000 ms
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 42530.
+Total: 480.488400 ms (FindLiveObjects: 2.059000 ms CreateObjectMapping: 1.991800 ms MarkObjects: 476.336400 ms  DeleteObjects: 0.101000 ms)
+
+Loading game from file Autosave-5 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - anomalypatch.1trickPwnyta
+  - biotechpatch.1trickPwnyta
+  - ideologypatch.1trickPwnyta
+  - Joe.2xCarryingCapacity
+  - adaptive.storage.framework
+  - nep.smallerturbines
+  - Proxyer.anestheticpatch
+  - animalfilthdontcare.1trickPonyta
+  - Oblitus.AnimalsLogic
+  - com.bymarcin.ArchitectIcons
+  - ferny.artaccurategenebank
+  - automatic.autolinks
+  - Linnun.AutoCastSpecialistCommands
+  - automatic.autocleaner
+  - ferny.auxiliariescategory
+  - BattIeBear.BattIePatch.EnhancedBioregeneration
+  - BattIeBear.BattIePatch.GhoulMoodBarFix
+  - Meltup.BeautifulOutdoors
+  - bedrestforfoodpoisoning.1trickPonyta
+  - RedMattis.BetterChildren
+  - nephlite.advexplosions
+  - RedMattis.BetterGeneInheritance
+  - Mlie.BetterMessagePlacement
+  - lts.BVT
+  - kikohi.BetterGroundPenetratingScanner
+  - Daria40K.BigLittleModPatch
+  - RedMattis.BetterPrerequisites
+  - RedMattis.BSFurniture
+  - Spacemoth.BTOD
+  - EL.BiotechMechRT
+  - Owlchemist.BoundaryTraining
+  - ferny.brambleblast
+  - Hol.BSC
+  - Aoba.Tent
+  - caravandetecteddontcare.1trickPwnyta
+  - nep.caravanghouls
+  - Kopp.CaravanItemSelectionEnhanced
+  - Gideon.CastleWalls
+  - void.charactereditor
+  - zylle.ChildboodBackstories
+  - ChildrenTraitsAffectLearning.Mod
+  - blues.breaker
+  - ferny.categoriesspots
+  - s1.cleaningareatemp
+  - CloseLetters.Sentinel
+  - Foxy.ColonistBarBelowDev
+  - PeteTimesSix.CompactHediffs
+  - Mlie.CompensateForLostLimbs
+  - Metalocif.CGS
+  - BDew.CremateAutoStrip
+  - Thumb.BetterCremation
+  - ferny.culturecategory
+  - Cyber.Miniaturization
+  - Dysphorid.DMusic
+  - sumghai.DefensiveMachineGunTurretPack
+  - Garwel.DestroyItem
+  - zal.dcmtr
+  - Owlchemist.DoorClearance
+  - dracoix.doormat.r12a
+  - Dubwise.DubsBadHygiene
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsSkylights
+  - Mlie.DucksNoLimitsIdeology
+  - Collapse.DunesOfRim.Harkonnen
+  - zeracronius.dynamictradeinterface
+  - Gold.EasierKibbleX4
+  - V1024.EffectiveLumbering
+  - zylle.ExtraAlerts
+  - Keshash.ExtraExplosionEffects
+  - Verniy709.FaceDown
+  - factionxenotyperandomizer.1trickPwnyta
+  - kosaro.fahrenheitandcelsius
+  - Atlas.FalloutTraits
+  - JoeDaly.Neutro.Medieval
+  - ferny.EasyCaravanFormation
+  - Aelanna.FistNerf
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.FoodPoisoningStackFix
+  - AOBA.Framework
+  - RedMattis.GeneExtractor
+  - Gerrymon.UVT
+  - rabiosus.ghoulcorpsefilter
+  - GlitchGoblin.GravesAreForColonists
+  - Mlie.GreyerMorals
+  - LTS.PG
+  - automatic.gunplay
+  - BotchJob.HTHair
+  - tidal.hardspacesoundtrack
+  - ivelischt.RimWorld.uncooledHay
+  - llunak.HideRaidStrategy
+  - holdthegrenades.1trickPonyta
+  - HaiLuan.IWBB
+  - zal.imoff
+  - Garwel.IdeologyDevelopmentPlus
+  - Mlie.IncreasedDodgeChance
+  - joe.tests.InfiniteTurrets
+  - Dark.JobInBar
+  - Mlie.JustIgnoreMePassing
+  - Mlie.JustPutItOverThere
+  - tiagocc0.JustStoneTile
+  - tiagocc0.JustWoodFloor
+  - Kharshuf.JusticeForFlagstone
+  - Linnun.KeepConverting
+  - keepmortarsready.1trickPwnyta
+  - Keshash.LayeredWallDestruction
+  - Krafs.LevelUp
+  - DanceNinja.LifterPlzDoMoreJobs
+  - juanlopez2008.LightsOut
+  - tyrannidae.littlecritters
+  - Mlie.LiveWithThePain
+  - lecht.lockapparel
+  - espio.losefaith
+  - Hol.StoneButcher
+  - Hol.StoneStove
+  - winggar.meaningfulparties
+  - AzzyH.MechChargerBooster
+  - Spacemoth.MechTab
+  - lts.MSMD
+  - sumghai.Medpod
+  - Gerrymon.MCO
+  - co.uk.epicguru.meleeanimation
+  - Mo.MHScanner
+  - Superniquito.ModOptionsSort
+  - Hol.Words
+  - ferny.moreorders
+  - kirby.morereligiousorigins
+  - tidal.morevanilla.textures
+  - zal.morevanillaturrets
+  - vingy.moreagingmulitplier
+  - ferny.moveyourmonolith
+  - oels.multireinstall
+  - zal.musicmanager
+  - IssacZhuang.MuzzleFlash
+  - Andromeda.NiceHairs
+  - Unon.NoBurnMetal
+  - Dingo.NoForcedSlowdown
+  - Doug.NoJobAuthors
+  - Mangone.NoAbandonedCamp
+  - overheadMeal.patch
+  - Chaotic.OSTUnlocker
+  - Lime.OgreStack
+  - Spacemoth.OreOverlay
+  - fed1sPlay.PawnTargetFix
+  - Alleykat.PersistentPrecepts
+  - Owlchemist.PerspectivePaths
+  - Mehni.PickUpAndHaul.Unoffical
+  - cem.PositiveConnections
+  - erdelf.PowerIndicators
+  - tk421storm.PriorityTreatmentRessurected
+  - prisonernointeractionalert.1trickPwnyta
+  - Mlie.PrisonersShouldFearTurrets
+  - Mlie.RangeFinder
+  - Garwel.ReadoutsPlus
+  - realtimeautosave.1trickPonyta
+  - Mlie.RealisticHumanSounds
+  - joeownage.twistedpacifist.ReasonableComponents
+  - Garwel.RecruitSlaves
+  - Mlie.RelevantStatsInDescription
+  - ShepirotGamer.NoAnimaRadius
+  - ShepirotGamer.NoGauranlenRadius
+  - DEBUuugggg.ReplaceStuff
+  - ferny.ReplaceLib
+  - sumghai.Replimat
+  - Owlchemist.ResearchPowl
+  - Jaxe.RimHUD
+  - Sierra.RT.GeneralTraits
+  - Sierra.RT.VanillaTraitColors
+  - rimsenal.EVP
+  - rimsenal.core
+  - rimsenal.security
+  - zal.spaceports
+  - ferny.roughtrail
+  - Ael.Tua.RunAwayStupid
+  - safetemperature.1trickPwnyta
+  - opponent019.SanguophageFeedRelationship
+  - Owlchemist.ScatteredFlames
+  - fxz.selectsimilar
+  - zal.sensibleaiming
+  - sensiblebedownership.1trickPwnyta
+  - mosi.ShardDagger
+  - Spacemoth.ShowKnownTechprints
+  - zal.silkroad
+  - Owlchemist.SimpleFX.Splashes
+  - Atlas.SimpleFX.Vapor.Revaporized
+  - RedMattis.SimpleHDBodies
+  - arvkus.simplerecycling
+  - PeteTimesSix.SimpleSidearms
+  - ray1203.SimpleCameraSetting
+  - Mlie.SinglePlantTexturePatch
+  - Sl4vP0weR.SleepMeditation.1.5
+  - sleepy068.morepsycasts
+  - rabiosus.slimrecharger
+  - Owlchemist.SmartFarming
+  - smartnutrientpastedispensers.1trickPonyta
+  - sarg.smartspeed
+  - denev.SmartTurretCovering
+  - smartworkmode.1trickPwnyta
+  - Mlie.SmarterDeconstructionAndMining
+  - LM.SmokeleafTweaks
+  - Albion.SparklingWorlds.Full
+  - balistafreak.StopDropAndRoll
+  - zal.sibtl
+  - msd.tendyourself
+  - zal.titlesforme
+  - Owlchemist.ToggleableReadouts
+  - Owlchemist.ToggleableShields
+  - Mlie.TurretIdlePosition
+  - marvinkosh.ughyougotme
+  - uglytogether.leeh
+  - Hol.UltColNames
+  - Scurvyez.UntitledGooseMod
+  - Mlie.UseThisInstead
+  - SirVan.MechanitorRetexture
+  - sirvan.MWRetextured
+  - SirVan.SteelRetexture
+  - RedMattis.VanillaGenesRebalanced
+  - AuntyDonna.mechdetritusretextured
+  - visiblewealth.1trickPwnyta
+  - wvc.sergkart.biotech.MoreMechanoidsWorkModes
+  - WPM.Jerry
+  - co.uk.epicguru.whatsthatmod
+  - Tixiv.WhoShotMyLegOff
+  - RedMattis.BetterConversion
+  - xenotyperandomizer.1trickPwnyta
+  - smashphil.xmlpatchhelper
+  - zal.bigtrees
+  - zal.library
+  - Veltaris.WasteCollector
+  - Better.Plants
+  - Farmable.Neutroamine.Upscaled
+  - FrozenSnowFox.AlwaysRearmTurrets
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - FrozenSnowFox.BetterAnomalyLoot
+  - FrozenSnowFox.BetterCampLoot
+  - FrozenSnowFox.BetterPawnLendingQuest
+  - FrozenSnowFox.BetterSpikeTraps
+  - FrozenSnowFox.EncounterMapResources
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - FrozenSnowFox.GrowableAmbrosia
+  - FrozenSnowFox.GrowableGrass
+  - FrozenSnowFox.GrowableMushrooms
+  - FrozenSnowFox.MoreQuests
+  - savestoragesettings.kv.rw.fishtmp
+  - kittahkhan.grazeup
+  - LimeTreeSnake.Furnishing
+  - LynTheCookie.Multitool
+  - Mlie.RoyaltyUnlockWorkingEmperor
+  - SR.ModRimworld.FactionalWarContinued
+  - SR.ModRimworld.RaidExtension
+  - syrchalis.processor.framework
+  - XeoNovaDan.VisiblePants
+  - Mlie.sdMedicaddons
+  - Adaptive.Ideology.Storage
+  - Adaptive.PrimitiveStorage
+  - Adaptive.SimpleStorage
+  - ferny.animalscategory
+  - RedMattis.BigSmall.Core
+  - ferny.biotechcategory
+  - ChaoticEnrico.CastleWallsExpanded
+  - KirrenCooper.circuitbreakerretexture
+  - Aoba.Fortress.Industrial
+  - ferny.lightingcategory
+  - Hol.MGSNames
+  - proxyer.optionalicons4ai
+  - ferny.outreachcategory
+  - Spacemoth.PFeedPrisoners
+  - sumghai.ReplimatMeals
+  - sleepy068.morepermits
+  - Andromeda.StackGap
+  - SirVan.MVTRetexture
+  - FrozenSnowFox.ComplexJobs
+  - FrozenSnowFox.IndoorTreeFarms
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.SimplySoil
+  - LimeTreeSnake.Defence
+  - ferny.bedroomcategory
+  - RedMattis.BigSmall
+  - RedMattis.Undead
+  - RedMattis.BigWeapons
+  - RedMattis.Dryads
+  - Aoba.Fortress.Frontier
+  - silencer59.timekills
+  - FrozenSnowFox.AdvancedBionicsExpansion
+Null key while loading dictionary of Verse.Pawn and JobInBar.LabelData. label=TrackedPawns
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+checking editor settings...
+bodysizes genes are active
+Loading Tua GameComponent: LoadedGame()
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 50197.
+Total: 506.703200 ms (FindLiveObjects: 2.245400 ms CreateObjectMapping: 2.800700 ms MarkObjects: 501.580300 ms  DeleteObjects: 0.076600 ms)
+
+Tried to split off 17 of InsectJelly493252 but there are only 14
+enable table 
+enable table 
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref EC7879F8]
+  at GeneExtractorTiers.Comp_GeneNode.PostDestroy (Verse.DestroyMode mode, Verse.Map previousMap) [0x00001] in <8ce51d5437b742f6a1a3418a1042892f>:0 
+  at Verse.ThingWithComps.Destroy (Verse.DestroyMode mode) [0x00026] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at Verse.Building.Destroy (Verse.DestroyMode mode) [0x0002e] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at Verse.ThingOwner.ClearAndDestroyContents (Verse.DestroyMode mode) [0x00015] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.MinifiedThing.Destroy (Verse.DestroyMode mode) [0x00076] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Planet.Settlement_TraderTracker.TryDestroyStock () [0x00042] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Planet.Settlement_TraderTracker.TraderTrackerTick () [0x0002a] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Planet.Settlement.TickInterval (System.Int32 delta) [0x0000f] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Planet.WorldObject.DoTick () [0x00066] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Planet.WorldObjectsHolder.WorldObjectsHolderTick () [0x00029] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at RimWorld.Planet.World.WorldTick () [0x00016] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+  at Verse.TickManager.DoSingleTick () [0x000fe] in <78bd3c897ba748f7a6d21cc5498c054e>:0 
+    - PREFIX LightsOut: Void LightsOut.Patches.Power.PerformPendingShutoff:Prefix()
+    - POSTFIX Owlchemist.ScatteredFlames: Void ScatteredFlames.Patch_TickManager_DoSingleTick:Postfix()
+enable table 
+enable table 
+Can't find valid chair or spot for Hosep trying to ingest BabyFood494627
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+enable table 
+enable table 
+enable table 
+enable table 
+enable table 
+enable table 
+enable table 
+enable table 
+enable table 
+enable table 
+Exception ticking MechGestator477487 (at (110, 0, 164)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref C17F85BC] Duplicate stacktrace, see ref for original
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4396301) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4396631) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+[Andromeda|StackGap] soft lock detected. Skip restrictions
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4398934) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4399322) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4399510) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4399674) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4399874) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4400074) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4400259) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4400419) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4400584) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4402458) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4402799) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4410506) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4412058) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4412829) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4413576) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4414091) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4414860) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4415643) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+enable table 
+enable table 
+enable table 
+enable table 
+JobDriver threw exception in toil FinishRecipeAndStartStoringProduct's initAction for pawn Hosep driver=JobDriver_DoBill (toilIndex=14) driver.job=(DoBill (Job_4416136) A = Thing_MechGestator477487 Giver = JobGiver_Work [workGiverDef: DoBillsMechGestator])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AB53DD2F] Duplicate stacktrace, see ref for original
+[Real-Time Auto Save] TryAutosave called.
+[Real-Time Auto Save] TryAutosave succeeded.
+[Real-Time Auto Save] Set timer for 600000
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 5085 frames, [1.0 KB-2.0 KB]: 14 frames, [2.0 KB-4.0 KB]: 280380 frames, [4.0 KB-8.0 KB]: 42375 frames, [8.0 KB-16.0 KB]: 22744 frames, [16.0 KB-32.0 KB]: 365 frames, [32.0 KB-64.0 KB]: 60 frames, [64.0 KB-128.0 KB]: 32 frames, [128.0 KB-256.0 KB]: 24 frames, [256.0 KB-0.5 MB]: 2 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 15 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.4 MB
+      Peak Allocated Bytes 7.4 MB
+      Overflow Count 1
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 116.0 KB
+      Peak Allocated Bytes 114.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.8 KB
+      Overflow Count 20
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 176 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 202 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 176 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 202 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 507 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 480 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 160 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 19138
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 4 Subsections = 4096 buckets. Failed count: 2012392
+        32B: 34 Subsections = 17408 buckets. Failed count: 1697555
+        48B: 49 Subsections = 16725 buckets. Failed count: 535659
+        64B: 39 Subsections = 9984 buckets. Failed count: 266122
+        80B: 85 Subsections = 17408 buckets. Failed count: 21311766
+        96B: 29 Subsections = 4949 buckets. Failed count: 53884
+        112B: 10 Subsections = 1462 buckets. Failed count: 231729
+        128B: 6 Subsections = 768 buckets. Failed count: 233719
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1353 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 349743 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 22
+      Peak Allocated memory 343.8 MB
+      Peak Large allocation bytes 19.3 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 1354 frames, [16.0 MB-32.0 MB]: 2944 frames, [32.0 MB-64.0 MB]: 229 frames, [64.0 MB-128.0 MB]: 346570 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 7
+      Peak Allocated memory 102.0 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 168
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 4 Subsections = 4096 buckets. Failed count: 2012392
+        32B: 34 Subsections = 17408 buckets. Failed count: 1697555
+        48B: 49 Subsections = 16725 buckets. Failed count: 535659
+        64B: 39 Subsections = 9984 buckets. Failed count: 266122
+        80B: 85 Subsections = 17408 buckets. Failed count: 21311766
+        96B: 29 Subsections = 4949 buckets. Failed count: 53884
+        112B: 10 Subsections = 1462 buckets. Failed count: 231729
+        128B: 6 Subsections = 768 buckets. Failed count: 233719
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1353 frames, [2.00 GB-4.00 GB]: 349742 frames, [4.00 GB-8.00 GB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 151
+      Peak Allocated memory 5.94 GB
+      Peak Large allocation bytes 3.66 GB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 1369 frames, [2.0 KB-4.0 KB]: 16 frames, [4.0 KB-8.0 KB]: 2102 frames, [8.0 KB-16.0 KB]: 374 frames, [16.0 KB-32.0 KB]: 452 frames, [32.0 KB-64.0 KB]: 1213 frames, [64.0 KB-128.0 KB]: 13233 frames, [128.0 KB-256.0 KB]: 111321 frames, [256.0 KB-0.5 MB]: 221017 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 395.9 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 232
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 4 Subsections = 4096 buckets. Failed count: 2012392
+        32B: 34 Subsections = 17408 buckets. Failed count: 1697555
+        48B: 49 Subsections = 16725 buckets. Failed count: 535659
+        64B: 39 Subsections = 9984 buckets. Failed count: 266122
+        80B: 85 Subsections = 17408 buckets. Failed count: 21311766
+        96B: 29 Subsections = 4949 buckets. Failed count: 53884
+        112B: 10 Subsections = 1462 buckets. Failed count: 231729
+        128B: 6 Subsections = 768 buckets. Failed count: 233719
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 4310 frames, [16.0 MB-32.0 MB]: 346786 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 5
+      Peak Allocated memory 16.6 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 3970 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 49305 frames, [128.0 KB-256.0 KB]: 297815 frames, [256.0 KB-0.5 MB]: 3 frames, [0.5 MB-1.0 MB]: 3 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.5 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 4 Subsections = 4096 buckets. Failed count: 2012392
+        32B: 34 Subsections = 17408 buckets. Failed count: 1697555
+        48B: 49 Subsections = 16725 buckets. Failed count: 535659
+        64B: 39 Subsections = 9984 buckets. Failed count: 266122
+        80B: 85 Subsections = 17408 buckets. Failed count: 21311766
+        96B: 29 Subsections = 4949 buckets. Failed count: 53884
+        112B: 10 Subsections = 1462 buckets. Failed count: 231729
+        128B: 6 Subsections = 768 buckets. Failed count: 233719
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 1353 frames, [32.0 KB-64.0 KB]: 8 frames, [256.0 KB-0.5 MB]: 349735 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 381.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 351097 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 0
+      Peak Allocated memory 0 B
+      Peak Large allocation bytes 0 B
